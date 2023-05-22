@@ -7,7 +7,8 @@ Ciudad segura es una plataforma que pretende brindar al usuario la información 
 # Contenido del repositorio:
 
 Carpetas:
-
+* Data:
+   - Datos utilizados en el proyecto
 * Entregables:
    - Press Release (una cuartilla)
    - Boceto de la solución.
