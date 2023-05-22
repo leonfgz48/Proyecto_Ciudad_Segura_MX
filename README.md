@@ -1,13 +1,19 @@
-# Proyecto_Final_Dante
-Repositorio destinado al Proyecto final de la Materia Arquitectura de Producto de Datos (Dante).
+# Objetivo: 
+Objetivo: El propósito Repositorio es entregar todo el material referente al proyecto final llamadao Ciudad Segura. Materia Arquitectura de Producto de Datos.
 
-# Flujo de trabajo
-1) Seleccion de Base datos
-2) Descarga y preparacion para Base datos
-3) scrip para Limpieza y ordenamiento de Base de Datos
-4) Obtención de base datos "Limpia" 
-5) Subir base Athena
-6) srip en python de modelo para base de datos 
-7) entrenamiento de modelo 
-8) obtencion de resultados 
-9) Muestra de resultados.
+# Descripción:
+Ciudad segura es una plataforma que pretende brindar al usuario la información necesaria para poder identificar de manera fácil, cuantitativa y gráfica la actividad delictiva presente en la CDMX. 
+
+# Contenido del repositorio:
+
+Carpetas:
+
+* Entregables:
+   - Press Release (una cuartilla)
+   - Boceto de la solución.
+   - FAQ: Debe cubrir los siguientes temas (no tiene un límite de cuartillas).
+   - Arquitectura de la solución (una cuartilla o dos).
+   - Presentación ejecutiva 
+ * Codigo:
+   - Código del DEMO (que cumpla con los criterios de abajo)
+
