@@ -11,7 +11,7 @@ Carpetas:
    - Datos utilizados en el proyecto
 * Entregables:
    - Press Release.
-   - Boceto de la solución.
+   - Boceto de la solución (Final).
    - FAQ.
    - Arquitectura de la solución.
    - Presentación ejecutiva.
