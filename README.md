@@ -10,11 +10,11 @@ Carpetas:
 * Data:
    - Datos utilizados en el proyecto
 * Entregables:
-   - Press Release (una cuartilla)
+   - Press Release.
    - Boceto de la solución.
-   - FAQ: Debe cubrir los siguientes temas (no tiene un límite de cuartillas).
-   - Arquitectura de la solución (una cuartilla o dos).
-   - Presentación ejecutiva 
+   - FAQ.
+   - Arquitectura de la solución.
+   - Presentación ejecutiva.
  * Codigo:
    - Código del DEMO (que cumpla con los criterios de abajo)
 
